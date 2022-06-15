@@ -7,11 +7,12 @@ function TodoForm() {
     <form className="todo-form">
       <input
         type="text"
-        placeholder="Add a to do.."
+        placeholder="Add a to-do.."
         value={input}
         name="text"
         className="todo-input"
       />
+      <button className="todo-btn">Add to-do</button>
     </form>
   );
 }
