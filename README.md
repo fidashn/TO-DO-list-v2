@@ -4,7 +4,7 @@
 
 # Project Build 
 
-![Home](![todoapp-readme](https://user-images.githubusercontent.com/87206839/174085299-46f91668-4093-4c50-bba9-7b013d83603e.png))
+![Home](https://user-images.githubusercontent.com/87206839/174085299-46f91668-4093-4c50-bba9-7b013d83603e.png)
 
 
 # Project Link:
